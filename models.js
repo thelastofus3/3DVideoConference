@@ -16,3 +16,4 @@ export const loadModel = (url, position, scene) => {
         );
     });
 };
+
